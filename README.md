@@ -1,9 +1,9 @@
-🚗 Driver Drowsiness Detection System
+#🚗 Driver Drowsiness Detection System
 
 A real-time Driver Drowsiness Detection System built using Computer Vision and MediaPipe Face Mesh.
 The system monitors eye closure and yawning patterns through a webcam to detect driver fatigue and triggers an alarm alert to prevent accidents.
 
-📌 Features
+#📌 Features
 
 👁️ Eye Aspect Ratio (EAR) based eye-closure detection
 
@@ -17,7 +17,7 @@ The system monitors eye closure and yawning patterns through a webcam to detect 
 
 ⚡ Real-time performance using webcam feed
 
-🧠 How It Works
+#🧠 How It Works
 
 Captures live video feed using OpenCV
 
@@ -59,8 +59,7 @@ Driver-Drowsiness-Detection/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/driver-drowsiness-detection.git
-cd driver-drowsiness-detection
+https://github.com/PrankitBajpai/driver_drowsiness_detection.git
 
 2️⃣ Create Virtual Environment (Recommended)
 python -m venv venv
@@ -92,7 +91,7 @@ Alarm Cooldown	5 seconds
 
 (These can be tuned based on lighting and camera quality.)
 
-🧪 Use Cases
+#🧪 Use Cases
 
 🚘 Driver safety systems
 
